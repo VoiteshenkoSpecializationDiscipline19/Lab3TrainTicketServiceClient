@@ -7,3 +7,13 @@ D:\Client\Client\obj\Debug\Client.Properties.Resources.resources
 D:\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
 D:\Client\Client\obj\Debug\Client.exe
 D:\Client\Client\obj\Debug\Client.pdb
+D:\Client\Client\bin\Debug\Newtonsoft.Json.dll
+D:\Client\Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Client\Client\bin\Debug\System.ValueTuple.dll
+D:\Client\Client\bin\Debug\Utf8Json.dll
+D:\Client\Client\bin\Debug\Newtonsoft.Json.xml
+D:\Client\Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Client\Client\bin\Debug\System.ValueTuple.xml
+D:\Client\Client\bin\Debug\Utf8Json.xml
+D:\Client\Client\obj\Debug\Client.csproj.CopyComplete
+D:\Client\Client\obj\Debug\Client.Form2.resources
